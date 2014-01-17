@@ -1,8 +1,8 @@
 ---
 layout: doc_en
 title: Contributing
-previous: Getting Started - Troubleshooting
-previous_url: getting-started/troubleshooting
+previous: Getting Started - Unsupported Features
+previous_url: getting-started/unsupported-features
 next: Communication
 next_url: contributing/communication
 ---
