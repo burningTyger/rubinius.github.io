@@ -3,8 +3,8 @@ layout: doc_en
 title: Troubleshooting
 previous: Running Rubinius
 previous_url: getting-started/running-rubinius
-next: Unsupported Features
-next_url: getting-started/unsupported-features
+next: Differences With MRI
+next_url: getting-started/differences-with-mri
 ---
 
 The following are errors that you may encounter while building, installing, or
